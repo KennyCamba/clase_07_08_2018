@@ -1,0 +1,9 @@
+[
+{"nombre":"cafe expresso","descripcion":"cafe en agua 200ml","categoria":"BEBIDAS","valor":1.00,"ingredientes":["cafe","azucar"], "imagen":"cafe.jpeg"},
+{"nombre":"te helado","descripcion":"te helado 200ml","categoria":"BEBIDAS","valor":1.25,"ingredientes":["menta","te negro","azucar"], "imagen":"te_helado.png"},
+{"nombre":"papas fritas","descripcion":"papas","categoria":"SAL", "valor":1.50,"ingredientes":["papas"], "imagen":"papas_fritas.jpg"},
+{"nombre":"humitas","descripcion":"choclo tierno y queso envuelto en hoja de choclo","categoria":"SAL", "valor":1.75,"ingredientes":["choclo","queso","mantequilla"], "imagen":"humitas.jpeg"},
+{"nombre":"muchin","descripcion":"mezcla de yuca rallada y queso frita","categoria":"SAL","valor":0.75,"ingredientes":["yuca","queso","mantequilla","huevo"], "imagen":"muchin.png"},
+{"nombre":"cheesecake","descripcion":"cheesecake de frutilla","categoria":"DULCE","valor":2.99,"ingredientes":["queso","frutillas","azucar","harina"], "imagen":"cheescake.jpeg"},
+{"nombre":"mojada chocolate","descripcion":"torta mojada de chocolate","categoria":"DULCE","valor":1.99,"ingredientes":["chocolate","harina","mantequilla","azucar"], "imagen":"torta_chocolate.jpeg"},
+]
